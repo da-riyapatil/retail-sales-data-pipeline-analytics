@@ -2,8 +2,8 @@
 ![Dashboard Preview](screenshots/powerbi-dashboard-1.png)
 
 ## Project Links
-- **Power BI Dashboard:** [View Dashboard](your-link-here)
-- **EDA App:** [View App](your-link-here)
+- **Power BI Dashboard:** [View Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYjExZmJmODItYzZkZC00YWE3LTlkMWQtZTgxYjI5ZDM4NGRhIiwidCI6IjI1Y2UwMjYxLWJiZDYtNDljZC1hMWUyLTU0MjYwODg2ZDE1OSJ9)
+- **EDA App:** [View App](https://retail-sales-data-pipeline-analytics.streamlit.app/)
 
 ## Summary
 This project is an end-to-end retail sales analytics workflow built using MySQL, Python, Azure Blob Storage, Azure Data Factory, Azure SQL Database, and Power BI.
