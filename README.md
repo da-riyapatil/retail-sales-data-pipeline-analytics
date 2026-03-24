@@ -56,6 +56,7 @@ This workflow demonstrates practical data movement across local, cloud, database
 - Revenue among top items was relatively distributed rather than being dominated by one product.
 
 ## Repository Structure
+```text
 retail-sales-data-pipeline-analytics/
 │
 ├── app/
@@ -87,6 +88,7 @@ retail-sales-data-pipeline-analytics/
 │
 ├── README.md
 └── requirements.txt
+```
 
 ## How to View the Project
 - Read this README for project overview and workflow
