@@ -48,12 +48,20 @@ This project was built to convert raw sales data into an analysis-ready dataset 
 This workflow demonstrates practical data movement across local, cloud, database, and reporting layers.
 
 ## Key Insights
-- Online sales generated a higher share of revenue than in-store sales.
-- Food was the top-performing category by revenue, followed by Beverages and Milk Products.
-- Digital Wallet contributed the highest revenue among payment methods.
-- Discounted transactions showed higher average quantity sold than non-discounted transactions.
-- Monthly sales remained fairly stable overall, with a few stronger seasonal months.
-- Revenue among top items was relatively distributed rather than being dominated by one product.
+
+- Online sales contributed about 64.49% of total revenue vs 35.51% from in-store sales
+- Food was the top revenue category at around 600K, followed by Beverages at 400K and Milk Products at 300K
+- Digital Wallet contributed 70.2% of payment revenue, ahead of Credit Card at 19.9% and Cash at 9.92%
+- Average quantity sold was about 9.99 with discounts vs 4.97 without discounts
+- Monthly revenue stayed relatively stable between about 38K and 55K, with peaks in March 2023 and December 2023
+- Revenue was led by a balanced group of top items rather than one product dominating sales
+
+## Business Recommendations
+- Focus marketing and inventory on online channels where revenue contribution is higher
+- Increase stock and promotions for high-performing categories like Food and related items
+- Encourage digital payment adoption through incentives to improve transaction efficiency
+- Use targeted discounts to increase volume while monitoring impact on margins
+- Plan campaigns around peak sales periods identified in monthly trends
 
 ## Repository Structure
 ```text
