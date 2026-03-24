@@ -56,12 +56,37 @@ This workflow demonstrates practical data movement across local, cloud, database
 - Revenue among top items was relatively distributed rather than being dominated by one product.
 
 ## Repository Structure
-- `app/` – Python analysis script
-- `notebooks/` – cleaning and analysis notebooks
-- `data/` – sample cleaned dataset and data dictionary
-- `docs/` – project notes, architecture flow, and insights
-- `screenshots/` – charts and dashboard images
-- `powerbi/` – Power BI files or export
+retail-sales-data-pipeline-analytics/
+│
+├── app/
+│   └── retail_sales_analysis.py
+│
+├── notebooks/
+│   ├── retail_sales_analysis.ipynb
+│   ├── retail_sales_clean_data.ipynb
+│
+├── data/
+│   ├── data_dictionary.md
+│   ├── messy_retail_store_sales.csv
+│   └── retail_store_clean_data.csv
+│
+├── docs/
+│   ├── project_summary.md
+│   ├── architecture_flow.md
+│   ├── insights_and_recommendations.md
+│   ├── powerbi_service_features.md
+│
+├── powerbi/
+│   └── (Power BI files or export)
+│
+├── screenshots/
+│   └── (charts and dashboard images)
+│
+├── sql/
+│   ├── messy_data_csv_to_mysql.sql
+│
+├── README.md
+└── requirements.txt
 
 ## How to View the Project
 - Read this README for project overview and workflow
